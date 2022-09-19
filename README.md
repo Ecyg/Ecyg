@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning more advanced exploit methods via "HackTheBox".
 
-💞️ I’m looking to collaborate on ...
+💞️ I work in Application Security, so my favorite repos tend to reflect that.
 
 📫 How to reach me : matthew.ke.moore@gmail.com
 
